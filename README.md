@@ -7,7 +7,7 @@ Create a simple a project and task management web application. Think of an extre
 
 | **Name** | **Email** |  **Gitlab Access** |
 | --- | --- | --- | --- |
-| Sanju Sci | sanju.sci9@gmail.com  | Owner
+| Sanju Sci | sanju.sci9@gmail.com  | Owner |
 
 ## Prerequisites
 
