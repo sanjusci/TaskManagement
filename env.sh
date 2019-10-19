@@ -1,0 +1,6 @@
+export MYSQL_DB_PORT=3306
+export MYSQL_DB_MAX_AGE=60
+export MYSQL_DB_NAME=task_mgmt
+export MYSQL_DB_HOST=localhost
+export MYSQL_DB_USERNAME=root
+export MYSQL_DB_PASSWORD=a
